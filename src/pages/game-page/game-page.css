@@ -1,0 +1,26 @@
+.game-page {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 50px;
+}
+
+.game-page__content {
+    display: flex;
+}
+.game-page__popular{
+    display: flex;
+    gap: 10px;
+}
+.game-page__left {
+    flex: 1 1 auto;
+}
+
+.game-page__right {
+    flex: 0 1 350px;
+}
+
+.game-page__buy-game {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}

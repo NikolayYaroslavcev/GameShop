@@ -1,0 +1,10 @@
+.game-buy{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-right: 10px;
+
+}
+.game-buy__price{
+
+}
